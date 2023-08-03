@@ -1,2 +1,2 @@
-# Strapi-Next-Explore
+# Strapi Next Explore
 Strapi Next Explore
